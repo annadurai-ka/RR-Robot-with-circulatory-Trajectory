@@ -21,7 +21,7 @@ Fig.1 Overall block diagram of RR robot circular trajectory simulation
 	It comprises the matrices and the MATLAB function that feeds the inverse function, which computes the angles (O1, O2) and other necessary metrics, the X1 and Y1 from the trajectory model, and the mechanical model of our robotic arm. 
 	The following are the formulae that are utilized in this project for finding the angle:
 
-    	![image](https://github.com/annadurai-ka/RR-Robot-with-circulatory-Trajectory/assets/156352281/c7bbd4de-a74d-49dd-be7c-5878847b79d0)
+   ![image](https://github.com/annadurai-ka/RR-Robot-with-circulatory-Trajectory/assets/156352281/c7bbd4de-a74d-49dd-be7c-5878847b79d0)
 
    
 5. Mechanical Model:
